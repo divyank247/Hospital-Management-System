@@ -28,7 +28,7 @@ The Hospital Management System is a web application designed to simplify the app
 
 ## Future Enhancements
 
-Automated reminders
-Advanced reporting
+1. Automated reminders
+2. Advanced reporting
 
 
